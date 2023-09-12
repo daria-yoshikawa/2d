@@ -1,6 +1,6 @@
 # 2d plot
 
-This template should help get you started developing with Vue 3 in Vite.
+Function graphing application 
 
 ## Recommended IDE Setup
 
